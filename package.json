@@ -1,0 +1,14 @@
+{
+  "name": "date_aggregator",
+  "version": "1.0.0",
+  "description": "This is a simple date aggregator function for Kemer internal project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nebyu Samuel, Back-end Team leader at Kemer Habesha",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
